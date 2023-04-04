@@ -1,0 +1,23 @@
+﻿body {
+    background-color: lightblue;
+    color: blue;
+    
+}
+    ul
+{
+    text-align:left;
+    margin:10px 0;
+}
+h2 {
+    text-align: center;
+    color:darkorange;
+    font-size:12px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+table 
+{
+    outline-style:dotted;
+}
+
+}
